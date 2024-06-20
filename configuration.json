@@ -1,0 +1,25 @@
+{
+  "api_key": "",
+  "id": 0,
+  "test_mode" : false,
+  "bot_username" : "",
+  "admin_username": "",
+  "support_username" : "",
+  "admin_ids": [],
+  "community_chat_id" : 0,
+  "community_username" : "",
+  "blockcypher_api_key": "",
+  "coinbase_commerce_api_key": "",
+  "the_odds_api_key" : "",
+  "betsapi_key" : "",
+  "paths": {
+    "abs_path": "",
+    "firebase_keys_path": ""
+  },
+  "events_refresh_interval": 7200,
+  "max_deposit": 10000,
+  "min_withdrawal": 10,
+  "withdrawal_fee" : 3,
+  "deposit_fee" : 1,
+  "max_bet" : 1000
+}
