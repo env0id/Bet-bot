@@ -84,5 +84,5 @@ Before you begin, ensure you have met the following requirements:
 
 ---
 
-Feel free to reach out for support by contacting [@PublicVoiddev](https://t.me/Public_Void_dev) on Telegram.
+Feel free to reach out for support by contacting [@Devdex](https://t.me/Devdex) on Telegram.
 
